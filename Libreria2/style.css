@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+    margin: 30;
     padding: 0;
     border: 0;
     font-size: 100%;
@@ -9,6 +9,12 @@
 body {
     text-align: center;
     font-family: sans-serif;
+}
+
+img.cola{
+    width: 250;
+    height: 250;
+
 }
 
 .head {
